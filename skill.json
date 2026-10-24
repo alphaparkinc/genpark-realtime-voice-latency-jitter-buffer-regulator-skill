@@ -1,0 +1,12 @@
+{
+  "name": "genpark-realtime-voice-latency-jitter-buffer-regulator-skill",
+  "version": "1.0.0",
+  "description": "VoIP jitter buffer regulator tuning adaptive playout delay, late-loss concealment, and conversational responsiveness",
+  "author": "GenPark AI Engineering",
+  "license": "MIT",
+  "keywords": ["jitter-buffer", "webrtc-audio", "packet-loss", "playout-delay", "voip-regulator", "agent-skills"],
+  "mcp": {
+    "supported": true,
+    "entrypoint": "mcp_server.py"
+  }
+}
